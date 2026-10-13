@@ -1,12 +1,10 @@
 # Jawaban Latihan Terstruktur — Pertemuan 4
 ## Implementasi Unit Testing dengan GitHub Actions
 
-Nama: Zidan Handri
+Nama: Hafizh Zidan Handrian
 NIM: 1224002
 Kelas: Sistem Informasi — STMIK Bandung
 Repository: https://github.com/Zidan-h4ndr1/latihan-git-1224002
-
-> Catatan: jika nama lengkap/kelas berbeda, ganti baris Nama/Kelas di file ini dan di `README.md`, lalu `git commit --amend` atau commit baru + push ulang.
 
 ---
 

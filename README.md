@@ -1,6 +1,6 @@
 # latihan-git-1224002
 
-Nama: Zidan Handri
+Nama: Hafizh Zidan Handrian
 NIM: 1224002
 Kelas: Sistem Informasi — STMIK Bandung
 Mata Kuliah: Pengujian Perangkat Lunak — Pertemuan 4 (Unit Testing dengan GitHub Actions)
